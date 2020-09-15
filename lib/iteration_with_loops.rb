@@ -11,7 +11,3 @@ def find_min_in_nested_arrays(src)
   new_array
 
 end
-
-arr = [18, 17, 13, 19, 20, 24, 22]
-
-find_min_in_nested_arrays(arr)
